@@ -4,4 +4,4 @@ NPM     : 2106750950
 
 Kelas   : A
 
-Hobi    : Main
+Hobi    : GG GAMING
